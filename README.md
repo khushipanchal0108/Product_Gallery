@@ -1,6 +1,6 @@
 # Product Gallery
 
-A simple product gallery application built using React, where users can add, edit, delete, and search for products. The application uses a JSON server to manage data and Axios for handling API requests.
+A simple product gallery application built using React, Javascript, HTML, Nodejs and CSS where users can add, edit, delete, and search for products. The application uses a JSON server to manage data and Axios for handling API requests.
 
 ## Features
 - Display products in a grid layout

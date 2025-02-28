@@ -1,0 +1,33 @@
+.top-bar {
+  display: flex;
+  align-items: center; /* Align items vertically */
+  gap: 10px; /* Add space between the button and search bar */
+}
+
+  
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  
+  .product-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+    background: #f9f9f9;
+  }
+  
+  .product-card img {
+    width: 150px;
+    height: 150px;
+    cursor: pointer;
+  }
+  
+  .product-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  

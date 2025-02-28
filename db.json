@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "description": "High-end gaming laptop",
+      "price": "$1500",
+      "image": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/65942e5a11ba33001d8da35d.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Phone",
+      "description": "Latest smartphone",
+      "price": "$1000",
+      "image": "https://m.media-amazon.com/images/I/713SsA7gftL._SX679_.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Headphones",
+      "description": "Noise-canceling headphones",
+      "price": "$200",
+      "image": "https://plus.unsplash.com/premium_photo-1678099940967-73fe30680949?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "4",
+      "name": "Smartwatch",
+      "description": "Fitness tracking smartwatch",
+      "price": "$300",
+      "image": "https://www.gonoise.com/cdn/shop/files/Carousel-500x500-1_5079e67e-c1ae-48f3-bf9a-d8a4c6a57e74.png?v=1697711374"
+    },
+    {
+      "id": "5",
+      "name": "Camera",
+      "description": "Professional DSLR camera",
+      "price": "$1200",
+      "image": "https://images.pexels.com/photos/1787220/pexels-photo-1787220.jpeg?auto=compress&cs=tinysrgb&w=6000"
+    },
+    {
+      "id": "6",
+      "name": "Tablet",
+      "description": "10-inch Android tablet",
+      "price": "$600",
+      "image": "https://aws-obg-image-lb-5.tcl.com/content/dam/brandsite/region/global/products/tablets/tcl-nxtpaper-14/id/1.png?t=1721272443153&w=800"
+    },
+    {
+      "id": "7",
+      "name": "Monitor",
+      "description": "4K UHD Monitor",
+      "price": "$800",
+      "image": "https://www.lg.com/content/dam/channel/wcms/in/images/tvs/32lq643bpta_atrq_eail_in_c/gallery/32LQ643bpta-DZ-1.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Keyboard",
+      "description": "Mechanical gaming keyboard",
+      "price": "$150",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/keyboard/desktop-keyboard/w/l/6/gaming-keyboard-with-87-keys-rgb-backlit-with-suspension-keys-original-imagzcgwtrabgjna.jpeg?q=90&crop=false"
+    },
+    {
+      "id": "9",
+      "name": "Mouse",
+      "description": "Wireless gaming mouse",
+      "price": "$100",
+      "image": "https://www.tpstech.in/cdn/shop/products/HP_220_Silent_Wireless_Mouse_from_tpstech.in-main3.jpg?v=1657774713&width=823"
+    }
+  ]
+}
